@@ -167,7 +167,7 @@ echo -e "${bldcya}  Starting compilation BlissPop..."
 echo -e ""
 echo -e ""
 $normal
-make bacon
+mka bacon
 echo -e ""
 
 

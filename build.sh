@@ -137,7 +137,7 @@ then
 	echo ""
 	echo ""
 	$normal
-	make clobber
+	rm -rf out
 fi
 
 # Setup environment
